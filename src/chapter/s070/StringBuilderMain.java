@@ -30,5 +30,6 @@ public class StringBuilderMain {
  * 
  * line6 StringBuilder 객체를 생성한다.
  * line7 ~ 9 append는 String의 스트링 컨케트네이션(+, concat) 역할을 한다. 그러나 StringBuilder는 뮤터블하므로 다시 대입하지 않아도 된다.
+ * line10 모든 참조 타입을 출력할 때는 자동으로 .toString()이 붙어 저장된 문자열을 출력한다.
  * 
  */
